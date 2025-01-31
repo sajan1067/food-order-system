@@ -62,5 +62,5 @@
             </div>
         </div>
         <!------main content section end--->
-
+<!--footer-->
         <?php include('/footer.php')?> 
